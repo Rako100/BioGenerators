@@ -1,0 +1,16 @@
+[
+{
+  "modid": "biogenerators",
+  "name": "Bio Generators",
+  "description": "A mod that intends to add a new way to generate power by using oil from plants and turning it into fuel",
+  "version": "alpha 1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Rako100"],
+  "credits": "Whoever helps me make textures",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
